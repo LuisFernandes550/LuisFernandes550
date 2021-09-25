@@ -5,7 +5,7 @@ My name is **Luís Fernandes** and I'm a school teacher.
 
 #### DESKTOP
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-61DAFB?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-61DAFB?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 #### Databases
 <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-434343?style=for-the-badge&logo=firebase"/>  <img alt="Sql Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> <img alt="Sql Lite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
